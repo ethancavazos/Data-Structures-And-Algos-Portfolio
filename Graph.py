@@ -2,8 +2,6 @@
 
 #  Description: Homework 23
 
-#  Student Name: Ethan Cavazos
-
 #  Student UT EID:
 
 #  Course Name: CS 313E
