@@ -2,10 +2,6 @@
 
 #  Description: Assignment 24
 
-#  Student Name: Ethan Cavazos
-
-#  Student UT EID:
-
 #  Course Name: CS 313E
 
 #  Date Created: 11/27/2020
