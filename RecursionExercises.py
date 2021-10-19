@@ -2,10 +2,6 @@
 
 #  Description: homework
 
-#  Student Name: Ethan Cavazos
-
-#  Student UT EID: enc527
-
 #  Course Name: CS 313E
 
 #  Unique Number: 
