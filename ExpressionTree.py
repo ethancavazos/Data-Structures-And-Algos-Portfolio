@@ -2,14 +2,6 @@
 
 #  Description: We took an expression and evaluated it using a Stack and Tree. 
 
-#  Student's Name: Jennah Rosas
-
-#  Student's UT EID: jnr2324
-
-#  Partner's Name: Ethan Cavazos
-
-#  Partner's UT EID: enc527
-
 #  Course Name: CS 313E
 
 #  Unique Number: 50845 & 50850
