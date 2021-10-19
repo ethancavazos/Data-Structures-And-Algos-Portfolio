@@ -1,15 +1,5 @@
 #  File: TestLinkedList.py
 
-#  Description: a homework showcasing my sheer ineptitude to do anything '''''''valuable''''''' in life
-
-#  Student Name: Ethan Cavazos
-
-#  Student UT EID: enc527
-
-#  Partner Name: Jennah Rosas
-
-#  Partner UT EID: jnr2324
-
 #  Course Name: CS 313E
 
 #  Unique Number:
